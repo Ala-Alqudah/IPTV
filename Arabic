@@ -1,56 +1,36 @@
 #EXTM3U
-#EXTINF:-1,2M Monde
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/index.m3u8
-#EXTINF:0,Al Aoula
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1,SNRT - AL-AULA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1,SNRT - AL-MAGHRIBIA
-https://list.iptvcat.com/my_list/s/ae6cf179d75b66629f458f560ee08d65.m3u8
-#EXTINF:-1,SNRT - AR-RIADIA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0,2M Maroc
-https://list.iptvcat.com/my_list/s/ff79abd5984de31e9a988f38ca1ea363.m3u8
-#EXTINF:0,2M Monde
-http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
-#EXTINF:0,2M Monde
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
-#EXTINF:0,Al Aoula
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:0,Al Aoula Laayoune TV
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:0,Al Aoula Laayoune TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/al_aoula_laayoune-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-#EXTINF:0,Al Maghribia
-http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:0,AL-MAGHRIBIA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:0,AR-RABIAA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:0,AR-RIADIA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0,Arrabia
-http://cdn-hls.globecast.tv/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:0,Arrabia
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8?fluxustv.m3u8
-#EXTINF:0,Arryadia
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:0,Arryadia
-http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
-#EXTINF:0,AS-SADISSA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:0,Assadissa
-http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-#EXTINF:0,AT-TAMAZIGHT
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:0,Laayoune TV
-http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:0,Medi 1 TV
-http://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/chunklist.m3u8
-#EXTINF:0,Tamazight TV
-http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:0,Télé Maroc
-http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",2M MAROC
+http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",AL AOULA INTER
+http://red.ipfox.org:8080/amer/amer1234/34857?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ALMAGHRIBIA
+http://red.ipfox.org:8080/amer/amer1234/34858?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ARRYADIA
+http://red.ipfox.org:8080/amer/amer1234/34859?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ASSADISSA
+http://red.ipfox.org:8080/amer/amer1234/34860?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ATHAQAFIA
+http://red.ipfox.org:8080/amer/amer1234/34861?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",LAAYOUNETV
+http://red.ipfox.org:8080/amer/amer1234/34862?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/J7GdM3L.png" group-title="Undefined",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",M24 TV (720p) [Not 24/7]
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",MEDI1-TV HD
+http://red.ipfox.org:8080/amer/amer1234/34864?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",Medi 1 TV Afrique (1080p) [Not 24/7]
+http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",TAMAZIGHT
+http://red.ipfox.org:8080/amer/amer1234/34863?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",TELE MAROC
+http://red.ipfox.org:8080/amer/amer1234/34856?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
 
 
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/bf/canalplus-afrique.com.epg.xml,https://iptv-org.github.io/epg/guides/ch/tv.blue.ch.epg.xml,https://iptv-org.github.io/epg/guides/cz/m.tv.sms.cz.epg.xml,https://iptv-org.github.io/epg/guides/eg-ar/elcinema.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/chaines-tv.orange.fr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/il/kan.org.il.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml"

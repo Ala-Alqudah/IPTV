@@ -3,7 +3,7 @@
 http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",AL AOULA INTER
 http://red.ipfox.org:8080/amer/amer1234/34857?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ALMAGHRIBIA
+#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="Undefined",ALMAGHRIBIA
 http://red.ipfox.org:8080/amer/amer1234/34858?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="" group-title="Undefined",ARRYADIA
 http://red.ipfox.org:8080/amer/amer1234/34859?checkedby:iptvcat.com
@@ -29,5 +29,3 @@ http://red.ipfox.org:8080/amer/amer1234/34863?checkedby:iptvcat.com
 http://red.ipfox.org:8080/amer/amer1234/34856?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
-https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com

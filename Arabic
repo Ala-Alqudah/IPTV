@@ -47,4 +47,5 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama PLUS
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wanasa.png" group-title="Undefined",MBC Wanasah
+http://new-pro.tv:8080/Fernando/123321/78568?checkedby:iptvcat.com

@@ -41,5 +41,10 @@ http://new-pro.tv:8080/Fernando/123321/33166?checkedby:iptvcat.com
 http://new-pro.tv:8080/Fernando/123321/33167?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Undefined",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
-
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Undefined",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MBC_Drama_TV_Channel_Logo.png?20210330160208" group-title="Undefined",MBC DRAMA
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="Movies",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:iptvcat.com
 

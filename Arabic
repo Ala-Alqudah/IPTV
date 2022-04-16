@@ -33,3 +33,5 @@ http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checked
 http://new-pro.tv:8080/Fernando/123321/33164?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="Undefined",MBC 2
 http://new-pro.tv:8080/Fernando/123321/33165?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/600px-MBC_3_Transparent_Background_Logo.png?20200127100139" group-title="Undefined",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8?checkedby:iptvcat.com

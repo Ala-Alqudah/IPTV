@@ -37,3 +37,9 @@ http://new-pro.tv:8080/Fernando/123321/33165?checkedby:iptvcat.com
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/MBC_4_TV_Channel_Logo.png/600px-MBC_4_TV_Channel_Logo.png?20211126202708" group-title="Undefined",MBC 4
 http://new-pro.tv:8080/Fernando/123321/33166?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/MBC5_logo.png?20200521144912" group-title="Undefined",MBC 5
+http://new-pro.tv:8080/Fernando/123321/33167?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Undefined",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.com
+
+

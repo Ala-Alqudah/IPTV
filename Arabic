@@ -6,11 +6,11 @@ http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
 #EXTINF:-1,SNRT - AL-AULA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
 #EXTINF:-1,SNRT - AL-MAGHRIBIA
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+https://list.iptvcat.com/my_list/s/ae6cf179d75b66629f458f560ee08d65.m3u8
 #EXTINF:-1,SNRT - AR-RIADIA
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:0,2M Maroc
-http://www.elahmad.com/tv/m3u8/elahmad_jyrh8.m3u8?id=maroc2
+https://list.iptvcat.com/my_list/s/ff79abd5984de31e9a988f38ca1ea363.m3u8
 #EXTINF:0,2M Monde
 http://livecdnh2.tvanywhere.ae/hls/2m_maroc/04.m3u8
 #EXTINF:0,2M Monde

@@ -80,5 +80,8 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playl
 #EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online",Weyyak Action (1080p)
+#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online",Weyyak Action
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",Abu Dhabi Aloula 
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8

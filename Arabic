@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="Undefined",2M MAROC
-http://red.ipfox.org:8080/amer/amer1234/34855?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="Undefined",2M monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/ZFHjIVU.png" group-title="Undefined",AL AOULA
 http://red.ipfox.org:8080/amer/amer1234/34857?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZlmQSBl.png" group-title="Undefined",ALMAGHRIBIA
@@ -70,3 +70,6 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 
 #EXTINF:-1 tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/hd.png?v=3" group-title="ROTANA",Rotana plus
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_2.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg" group-title="SYRIA",Sama Syria
+http://stream.sama-tv.net:8080/hls/samatv.m3u8

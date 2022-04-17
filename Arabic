@@ -87,4 +87,4 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" status="online",Al Quran (Mecca) 
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u8
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/playlist.m3u

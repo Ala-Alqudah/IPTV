@@ -29,8 +29,8 @@ http://streaming2.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?checkedby:ipt
 http://red.ipfox.org:8080/amer/amer1234/34856?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MA" tvg-logo="https://i.imgur.com/7sibv0t.png" group-title="Undefined",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Undefined",MBC 1
-http://new-pro.tv:8080/Fernando/123321/33164?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="MBC1USA.ae" tvg-name="MBC 1 USA" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="General",MBC 1 USA (1080p)
+https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png?20120504051703" group-title="Undefined",MBC 2
 http://new-pro.tv:8080/Fernando/123321/33165?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/600px-MBC_3_Transparent_Background_Logo.png?20200127100139" group-title="Undefined",MBC 3

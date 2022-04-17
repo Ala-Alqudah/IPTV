@@ -33,8 +33,7 @@ https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/in
 http://red.ipfox.org:8080/amer/amer1234/32834
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Undefined",MBC 3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/pfF61uH.png" group-title="Undefined",MBC 4
-https://list.iptvcat.com/my_list/s/ccc427327261b6e928e36b744a6da108.m3u8
+
 #EXTINF:-1 tvg-id="MBC5.ae" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="General",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Undefined",MBC Masr 1

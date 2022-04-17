@@ -49,4 +49,5 @@ https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e4
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/5/51/Wanasah.png" group-title="Undefined",MBC Wanasah
 http://new-pro.tv:8080/Fernando/123321/78568?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="dmc HD" tvg-name="dmc HD" tvg-language="Arabic" tvg-logo="https://i.imgur.com/es7v1kI.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",DMC HD+
+#EXTINF:-1,MBC Action HD
+http://new-pro.tv:8080/Fernando/123321/24

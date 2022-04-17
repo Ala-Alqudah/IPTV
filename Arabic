@@ -76,3 +76,9 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 
 #EXTINF:-1 tvg-id="SamaDubai.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NoorDubai.ae" status="online",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WeyyakAction.ae" status="online",Weyyak Action (1080p)
+https://weyyak-live.akamaized.net/weyyak_action/index.m3u8

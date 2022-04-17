@@ -85,3 +85,6 @@ https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 
 #EXTINF:-1 tvg-id="AbuDhabiAloula.ae" status="online",Abu Dhabi Aloula 
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AbuDhabiDrama.ae" status="error",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8

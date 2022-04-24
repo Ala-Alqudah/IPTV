@@ -1,9 +1,2 @@
 
-#EXTM3U 
-
-#EXTINF:1 tvg-id="MBCDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/MBC_IRAQ_LOGO_OFFICIAL.png" group-title="General",MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:1 tvg-id="MBCDrama.ae" tvg-country="ARAB;MAGHREB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/LBCI_News_logo.png/310px-LBCI_News_logo.png" group-title="General",Lbc
-https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
-
 https://www.youtube.com/embed/live_stream?channel=UC65F33K2cXk9hGDbOQYhTOw&autoplay=1

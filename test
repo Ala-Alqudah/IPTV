@@ -1,0 +1,8 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+
+https://www.youtube.com/embed/live_stream?channel=UC65F33K2cXk9hGDbOQYhTOw&autoplay=1
